@@ -7,7 +7,7 @@ It’s a lightweight example showing how to make explosions, impacts, or landing
 
 ## 🖼️ Preview
 
-![Camera Shake Preview](Media/5.gif)
+![Camera Shake Preview](Media/CameraShake.gif)
 
 ---
 
