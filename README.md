@@ -36,3 +36,25 @@ It’s a lightweight setup that makes your world feel alive with automatic sun a
 - Automatically manages **Directional Light**, **Sky Atmosphere**, and **Skylight**
 - Simple, Blueprint-free setup ideal for quick lighting prototypes
 - Fully adjustable through the **Details** panel for artistic control
+
+# 🎥 Project 3 – Stealth & Dash AI
+
+This project shows how to create a simple stealth system in **Unreal Engine 5.5.4**, featuring a stationary guard that can detect the player using **Pawn Sensing** and a manual dash mechanic for quick escapes.
+
+---
+
+## 🖼️ Preview
+
+![Stealth and Dash AI Preview](Media/StealthDashAI.gif)
+
+---
+
+## 🧱 Features
+
+- Player **dash mechanic** using LaunchCharacter and directional velocity
+- AI guard with **Pawn Sensing** for player detection
+- Smooth rotation toward player using **Find Relative Look At Rotation**
+- Configurable **vision range** and detection angle
+- Designed for stealth or action prototypes
+
+---
