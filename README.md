@@ -58,3 +58,27 @@ This project shows how to create a simple stealth system in **Unreal Engine 5.5.
 - Designed for stealth or action prototypes
 
 ---
+
+## ❤️ Project 4 – Health & Death System
+
+This project demonstrates how to build a simple yet complete **Health and Death System** in **Unreal Engine 5.5.4**, combining UI, player damage logic, and full ragdoll physics.
+It’s an essential gameplay foundation that makes any project feel more alive and reactive.
+
+---
+
+### 🖼️ Preview
+
+![Health and Death System Preview](Media/HealthSystem.gif)
+
+---
+
+### 🧱 Features
+
+- **Player Health System** using the `Event Any Damage` node
+- **Dynamic Damage Handling** with subtraction and health tracking
+- **Death Logic** featuring ragdoll physics and input disable
+- **UI Health Bar** bound to player health through a progress bar
+- **Automatic On-Screen Display** at game start via `Create Widget` and `Add to Viewport`
+- Fully modular — can be extended into **combat**, **survival**, or **RPG** systems
+
+---
