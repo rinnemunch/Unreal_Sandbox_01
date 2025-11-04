@@ -82,3 +82,24 @@ It’s an essential gameplay foundation that makes any project feel more alive a
 - Fully modular — can be extended into **combat**, **survival**, or **RPG** systems
 
 ---
+
+## 🎥 Project 5 – Third-Person to First-Person Camera Toggle
+
+This project demonstrates how to **switch between third-person and first-person views** in **Unreal Engine 5.5.4** using Blueprints.
+It’s a lightweight, game-ready setup inspired by titles like _Skyrim_ and _GTA_, allowing players to toggle perspectives instantly with a single key.
+
+---
+
+### 🖼️ Preview
+
+![Camera Toggle Preview](Media/CameraToggle.gif)
+
+---
+
+### 🧱 Features
+
+- **First-Person Camera** attached to the character’s head socket for accurate viewpoint
+- **Toggle System** using `FlipFlop` and `Branch` nodes on the **V** key
+- **Automatic Activation/Deactivation** of first-person and follow cameras
+- **Camera Boom Reset** for seamless third-person return
+- Fully modular — extendable for **cinematic transitions**, **FOV blending**, or **hybrid combat systems**
