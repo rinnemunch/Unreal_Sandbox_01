@@ -103,3 +103,29 @@ It’s a lightweight, game-ready setup inspired by titles like _Skyrim_ and _GTA
 - **Automatic Activation/Deactivation** of first-person and follow cameras
 - **Camera Boom Reset** for seamless third-person return
 - Fully modular — extendable for **cinematic transitions**, **FOV blending**, or **hybrid combat systems**
+
+---
+
+## 🌧️ Project 6 – Niagara Rain System
+
+This project demonstrates how to create a **realistic rain effect** in **Unreal Engine 5.5.4** using Niagara.
+It’s a simple yet cinematic weather system that adds atmosphere and realism to any environment — perfect for moody, story-driven, or open-world scenes.
+
+---
+
+### 🖼️ Preview
+
+![Niagara Rain System Preview](Media/NiagaraRain.gif)
+
+---
+
+### 🧱 Features
+
+- **Fog-based atmosphere** setup using Exponential Height Fog (density 2.0)
+- **Niagara System (NS_Rain)** created from the Fountain emitter template
+- **GPU-accelerated simulation** for large-scale performance
+- **High-density rainfall** with 3000 spawn rate and 4000x4000 area coverage
+- **Realistic downward velocity** and motion-aligned sprites for natural streaks
+- **Custom sprite scaling** (3x50) for elongated raindrop visuals
+- **Bounds scaling and placement** optimized to prevent culling during gameplay
+- Fully modular — can be expanded with **wind**, **splashes**, or **thunder effects**
