@@ -12,7 +12,8 @@ Each project focuses on a specific gameplay or visual mechanic, designed to teac
 Explore the full breakdowns below 👇
 Each project includes its **Blueprint setup**, **preview GIF**, and a short **feature list** for quick reference.
 
-# 🎥 Project 1 – Camera Shake
+# 🎥 Project 1 – Camera Shake 
+**[Read on Medium](https://medium.com/@fulton_shaun/how-to-add-camera-shake-in-unreal-engine-5-fef9d92e84ec)** | **[Watch on YouTube](https://www.youtube.com/watch?v=iNgOoYmHcuQ)**
 
 This project demonstrates how to add a dynamic camera-shake effect using **Blueprints** in **Unreal Engine 5.5.4**.
 It’s a lightweight example showing how to make explosions, impacts, or landings feel more cinematic and reactive.
