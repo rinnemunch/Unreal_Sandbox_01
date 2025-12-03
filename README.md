@@ -33,7 +33,8 @@ It’s a lightweight example showing how to make explosions, impacts, or landing
 - Triggered via keyboard input using the **Play World Camera Shake** node
 
 # 🌞 Project 2 – Dynamic Sun & Sky 
-**[Medium Guide]([https://medium.com/yourlink](https://medium.com/@fulton_shaun/one-plugin-to-handle-realistic-sun-movement-in-unreal-engine-5-bb47f34da4c0))** • **[YouTube Tutorial]([https://youtu.be/yourlink](https://www.youtube.com/watch?v=ubcIAoH_3D8))**
+**[Medium Guide](https://medium.com/@fulton_shaun/one-plugin-to-handle-realistic-sun-movement-in-unreal-engine-5-bb47f34da4c0)** • **[YouTube Tutorial](https://www.youtube.com/watch?v=ubcIAoH_3D8)**
+
 
 This project demonstrates how to create natural, evolving sunlight using _Unreal Engine 5.5.4’s_ **Day Sequence** plugin.
 It’s a lightweight setup that makes your world feel alive with automatic sun and sky movement — completely Blueprint-free.
