@@ -76,7 +76,8 @@ This project shows how to create a simple stealth system in **Unreal Engine 5.5.
 
 ---
 
-## ❤️ Project 4 – Health & Death System
+## ❤️ Project 4 – Health & Death System 
+**[Medium Guide](https://medium.com/@fulton_shaun/building-a-simple-health-and-death-system-in-unreal-engine-5-0a434a11096e)** • **[YouTube Tutorial](https://www.youtube.com/watch?v=2-yz16W66j4)**
 
 This project demonstrates how to build a simple yet complete **Health and Death System** in **Unreal Engine 5.5.4**, combining UI, player damage logic, and full ragdoll physics.
 It’s an essential gameplay foundation that makes any project feel more alive and reactive.
@@ -100,7 +101,8 @@ It’s an essential gameplay foundation that makes any project feel more alive a
 
 ---
 
-## 🎥 Project 5 – Third-Person to First-Person Camera Toggle
+## 🎥 Project 5 – Third-Person to First-Person Camera Toggle 
+**[Medium Guide](https://medium.com/@fulton_shaun/how-to-switch-from-third-person-to-first-person-view-in-unreal-engine-5-363c96687dff)** • **[YouTube Tutorial](https://www.youtube.com/watch?v=3YDYa0LfLpk)**
 
 This project demonstrates how to **switch between third-person and first-person views** in **Unreal Engine 5.5.4** using Blueprints.
 It’s a lightweight, game-ready setup inspired by titles like _Skyrim_ and _GTA_, allowing players to toggle perspectives instantly with a single key.
