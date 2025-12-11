@@ -126,6 +126,7 @@ It’s a lightweight, game-ready setup inspired by titles like _Skyrim_ and _GTA
 ---
 
 ## 🌧️ Project 6 – Niagara Rain System
+**[Medium Guide](https://medium.com/@fulton_shaun/how-to-create-a-realistic-rain-effect-in-unreal-engine-5-niagara-tutorial-8533146ca647)** • **[YouTube Tutorial](https://www.youtube.com/watch?v=v-hXyDX5msQ)**
 
 This project demonstrates how to create a **realistic rain effect** in **Unreal Engine 5.5.4** using Niagara.
 It’s a simple yet cinematic weather system that adds atmosphere and realism to any environment — perfect for moody, story-driven, or open-world scenes.
